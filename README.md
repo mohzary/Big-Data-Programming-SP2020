@@ -2,4 +2,4 @@
 
 | Student Name | Class ID | Lab ID | Email |
 | :------: | :------: | :------: | :------: |
-| Muhammed Mohzary | | | mmohzary@mail.umkc.edu |
+| Muhammed Mohzary | 13 |  5 | mmohzary@mail.umkc.edu |
