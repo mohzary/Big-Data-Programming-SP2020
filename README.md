@@ -8,3 +8,5 @@
 
 
 - M1ICP1: https://github.com/mohzary/Big-Data-Programming-SP2020/wiki/M1ICP1
+
+- M2ICP2: https://github.com/mohzary/Big-Data-Programming-SP2020/wiki/M1ICP2
