@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78cbb14b-95ce-4e7a-992c-392d9d572f4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Big-Data-Programming-SP2020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson 1/Cloudera .pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson 1/Cloudera.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson 1/Dataset/shakespeare.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson 1/Dataset/word_list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson 1/LessonPlan 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigData_Lesson2 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BigData_Lesson2 (1).pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson Plan 2 .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/WordCount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordCount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/.part-r-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/part-r-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_2/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_2/.part-r-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_2/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_2/part-r-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WordCount$IntSumReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WordCount$TokenizerMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WordCount.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>preacher</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XK7IS7D5zw16dlDTMYY74BD6hO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566432090187" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/input" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/input" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WordCount" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="WordCount" />
+      <module name="WordCount" />
+      <option name="PROGRAM_PARAMETERS" value="input output_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78cbb14b-95ce-4e7a-992c-392d9d572f4b" name="Default Changelist" comment="" />
+      <created>1566420888035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566420888035</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="333" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580783685439">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state x="333" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1610.1023@70.27.1610.1023" timestamp="1580783685439" />
+    <state x="716" y="430" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580782992173">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state x="716" y="430" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/70.27.1610.1023@70.27.1610.1023" timestamp="1580782992173" />
+    <state width="1564" height="265" key="GridCell.Tab.0.bottom" timestamp="1580783700539">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="1564" height="265" key="GridCell.Tab.0.bottom/70.27.1610.1023@70.27.1610.1023" timestamp="1580783700539" />
+    <state width="1564" height="265" key="GridCell.Tab.0.center" timestamp="1580783700538">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="1564" height="265" key="GridCell.Tab.0.center/70.27.1610.1023@70.27.1610.1023" timestamp="1580783700538" />
+    <state width="1564" height="265" key="GridCell.Tab.0.left" timestamp="1580783700538">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="1564" height="265" key="GridCell.Tab.0.left/70.27.1610.1023@70.27.1610.1023" timestamp="1580783700538" />
+    <state width="1564" height="265" key="GridCell.Tab.0.right" timestamp="1580783700538">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="1564" height="265" key="GridCell.Tab.0.right/70.27.1610.1023@70.27.1610.1023" timestamp="1580783700538" />
+    <state x="531" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1580782863579">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state x="531" y="366" key="com.intellij.ide.util.TipDialog/70.27.1610.1023@70.27.1610.1023" timestamp="1580782863579" />
+  </component>
+</project>
