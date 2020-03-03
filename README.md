@@ -16,3 +16,5 @@
 - M1ICP4: https://github.com/mohzary/Big-Data-Programming-SP2020/wiki/M1ICP4
 
 - M1ICP5: https://github.com/mohzary/Big-Data-Programming-SP2020/wiki/M1ICP5
+
+- M1ICP6: https://github.com/mohzary/Big-Data-Programming-SP2020/wiki/M1ICP6
