@@ -24,3 +24,17 @@ create table icp7.employees (employee_id int PRIMARY KEY, department text, lastn
 
 //To load data from local file
 copy employees (employee_id, department, lastname, year_with_company, hiredate, jobtitle, salary, managerid) from '/home/mohzary/employee_entries.csv' with DELIMITER='|' AND HEADER=TRUE;
+
+select * from employees;
+
+//Quries list:
+
+    //Query (1): List the empID,ename,jobtitle,and hiredate of employee from the employee table.
+      select employee_id, lastname, jobtitle, hiredate from employee;    
+    
+    
+ //Query (1): List the name,salary of the employees who are clerks.
+   //Query (1): List the name,job,salary of every employee joined on ‘february 18,2000’,
+   //Query (1):List name and annual salary of all the employees.
+    //Query (1):Display employees’ names, salary and manager values of those employees whose salary is 45000 from EMP table using SELECT statement.
+
