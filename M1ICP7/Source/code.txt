@@ -48,7 +48,9 @@ select * from employees;
  
     //Query(6):  Write a query that displays last names with first letter capitalized and all other letters in lowercase and       length of lastnames whose lastnames start with J, G or S.
     create custom index fnprefix on employees (lastname) using 'org.apache.cassandra.index.sasi.SASIIndex';
-    select * from employees where (lastname LIKE 'J%') OR (lastname LIKE 'G%') OR (lastname LIKE 'S%');
+    select * from employees where (lastname LIKE 'J%');
+    select * from employees where (lastname LIKE 'S%');
+    select * from employees where (lastname LIKE 'G%');
     
     //Import any data from the given data set and apply any commands like above.
 
