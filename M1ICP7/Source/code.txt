@@ -14,7 +14,13 @@ sudo systemctl status cassandra
 //To create KEYSPACE:
 cqlsh
 CREATE KEYSPACE icp7 WITH REPLICATION = {'class' : 'SimpleStrategy' , 'replication_factor' : 3 };
+
 //To use keyspace:
 use icp7;
+
 //To create employees table:
-create table data.employee (employee_id int PRIMARY KEY, department text, lastname text, year_with_company int, hiredate text, jobtitle text, salary int, managerid int);
+create table icp7.employees (employee_id int PRIMARY KEY, department text, lastname text, year_with_company int, hiredate text, jobtitle text, salary int, managerid int);
+
+
+//To load data from local file
+copy employees (employee_id, department, lastname, year_with_company, hiredate, jobtitle, salary, managerid) from '/home/mohzary/employee_entries.csv' with DELIMITER='|' AND HEADER=TRUE;
