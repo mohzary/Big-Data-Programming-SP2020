@@ -32,8 +32,10 @@ select * from employees;
     //Query (1): List the empID,ename,jobtitle,and hiredate of employee from the employee table.
       select employee_id, lastname, jobtitle, hiredate from employees;    
     
+    //Query (2): List the name,salary of the employees who are clerks.
+    select lastname, salary from employees where lastname = 'clerks' ALLOW FILTERING;
+    select lastname, salary from employees where lastname = 'Charles' ALLOW FILTERING;
     
- //Query (1): List the name,salary of the employees who are clerks.
    //Query (1): List the name,job,salary of every employee joined on ‘february 18,2000’,
    //Query (1):List name and annual salary of all the employees.
     //Query (1):Display employees’ names, salary and manager values of those employees whose salary is 45000 from EMP table using SELECT statement.
