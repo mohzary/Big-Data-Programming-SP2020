@@ -30,7 +30,7 @@ select * from employees;
 //Quries list:
 
     //Query (1): List the empID,ename,jobtitle,and hiredate of employee from the employee table.
-      select employee_id, lastname, jobtitle, hiredate from employee;    
+      select employee_id, lastname, jobtitle, hiredate from employees;    
     
     
  //Query (1): List the name,salary of the employees who are clerks.
