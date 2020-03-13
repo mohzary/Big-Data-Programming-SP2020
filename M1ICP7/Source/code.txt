@@ -8,4 +8,6 @@ sudo apt-get update
 sudo apt-get install cassandra
 
 
-//
+//Verify The Installation
+sudo systemctl status cassandra
+
