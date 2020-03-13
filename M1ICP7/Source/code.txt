@@ -8,6 +8,13 @@ sudo apt-get update
 sudo apt-get install cassandra
 
 
-//Verify The Installation
+//Verify The Installation:
 sudo systemctl status cassandra
 
+//To create KEYSPACE:
+cqlsh
+CREATE KEYSPACE icp7 WITH REPLICATION = {'class' : 'SimpleStrategy' , 'replication_factor' : 3 };
+//To use keyspace:
+use icp7;
+//To create employees table:
+create table data.employee (employee_id int PRIMARY KEY, department text, lastname text, year_with_company int, hiredate text, jobtitle text, salary int, managerid int);
