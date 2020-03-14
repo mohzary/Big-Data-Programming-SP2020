@@ -53,5 +53,25 @@ select * from employees;
     select * from employees where (lastname LIKE 'G%');
     
     //Import any data from the given data set and apply any commands like above.
+    //COVID19.csv dataset
+
+//To create KEYSPACE:
+cqlsh
+CREATE KEYSPACE covid19 WITH REPLICATION = {'class' : 'SimpleStrategy' , 'replication_factor' : 3 };
+
+//To use keyspace:
+use covid19;
+
+//To create covid19 cases table:
+//columns:id, ProvinceORState,CountryOrRegion,LastUpdate,Confirmed,Deaths,Recovered,Latitude,Longitude
+create table covid19.cases (id int PRIMARY KEY, ProvinceORState text, CountryOrRegion text, LastUpdate text, Confirmed int, Deaths int, Recovered int, Latitude float, Longitude float);
 
 
+//To load data from local file
+copy cases (id, ProvinceORState, CountryOrRegion, LastUpdate, Confirmed, Deaths, Recovered, Latitude, Longitude) from '/home/mohzary/covid19.csv' with DELIMITER=',' AND HEADER=TRUE;
+
+select * from cases;
+
+//Quries list:
+//Query (1): List the Country name, Last Update time, number of Confirmed, Deaths, and Recovered cases in saudi Arabia  from the cases table.
+      select CountryOrRegion, LastUpdate, Confirmed, Deaths, Recovered from cases where CountryOrRegion = 'Saudi Arabia' ALLOW FILTERING;    
