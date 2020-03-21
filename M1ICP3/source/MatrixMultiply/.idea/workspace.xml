@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97337ca6-3e1b-47b0-a7a3-0832a03f243a" name="Default Changelist" comment="" />
+    <list default="true" id="97337ca6-3e1b-47b0-a7a3-0832a03f243a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/TopCategories.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/input/youtubedata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output/.part-r-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output/part-r-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output1/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output1/.part-r-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output1/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output1/part-r-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/src/main/java/com/lendap/hadoop/TopCategories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab1/youtubedata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/WordCount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/WordCount.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +51,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -31,6 +65,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1XouSB3Q0Du0dHqGdE3PSNTRB1u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,9 +73,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -85,6 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581724769325</updated>
       <workItem from="1581724783030" duration="4630000" />
+      <workItem from="1584825459609" duration="3150000" />
     </task>
     <servers />
   </component>
@@ -96,11 +134,12 @@
       <screen x="0" y="23" width="1920" height="1000" />
     </state>
     <state x="307" y="175" key="#Intentions/0.23.1920.1000@0.23.1920.1000" timestamp="1581730517811" />
-    <state x="408" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581732255181">
-      <screen x="0" y="23" width="1920" height="1000" />
+    <state x="408" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584829661855">
+      <screen x="0" y="23" width="1920" height="993" />
     </state>
     <state x="408" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581731704615" />
     <state x="408" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1000@0.23.1920.1000" timestamp="1581732255181" />
+    <state x="408" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.993@0.23.1920.993" timestamp="1584829661855" />
     <state x="445" y="300" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581732456393">
       <screen x="0" y="23" width="1920" height="1000" />
     </state>

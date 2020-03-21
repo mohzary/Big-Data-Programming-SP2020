@@ -2,39 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78cbb14b-95ce-4e7a-992c-392d9d572f4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Big-Data-Programming-SP2020" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson 1/Cloudera .pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson 1/Cloudera.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson 1/Dataset/shakespeare.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson 1/Dataset/word_list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson 1/LessonPlan 1.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BigData_Lesson2 (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BigData_Lesson2 (1).pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson Plan 2 .docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/WordCount.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WordCount.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/._SUCCESS.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/.part-r-00000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/_SUCCESS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/part-r-00000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output_2/._SUCCESS.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output_2/.part-r-00000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output_2/_SUCCESS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output_2/part-r-00000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/WordCount$IntSumReducer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/WordCount$TokenizerMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/WordCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/TopCategories.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/input/youtubedata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/output/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/output/.part-r-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/output/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/output/part-r-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/output1/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/output1/.part-r-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/output1/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/output1/part-r-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/source/src/main/java/com/lendap/hadoop/TopCategories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M1ICP3/source/MatrixMultiply/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/youtubedata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WordCount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WordCount.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M1ICP3/source/MatrixMultiply/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../M1ICP3/source/MatrixMultiply/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M1ICP3/source/MatrixMultiply/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../M1ICP3/source/MatrixMultiply/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,7 +54,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -57,6 +62,9 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1XK7IS7D5zw16dlDTMYY74BD6hO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -66,6 +74,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566432090187" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/input" />
   </component>
@@ -96,8 +108,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566420888035</updated>
+      <workItem from="1584824720483" duration="2923000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="333" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580783685439">
@@ -124,9 +140,14 @@
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
     <state width="1564" height="265" key="GridCell.Tab.0.right/70.27.1610.1023@70.27.1610.1023" timestamp="1580783700538" />
-    <state x="531" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1580782863579">
-      <screen x="70" y="27" width="1610" height="1023" />
+    <state x="550" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1584824721252">
+      <screen x="0" y="23" width="1920" height="993" />
     </state>
+    <state x="550" y="352" key="com.intellij.ide.util.TipDialog/0.23.1920.993@0.23.1920.993" timestamp="1584824721252" />
     <state x="531" y="366" key="com.intellij.ide.util.TipDialog/70.27.1610.1023@70.27.1610.1023" timestamp="1580782863579" />
+    <state x="551" y="246" key="new project wizard" timestamp="1584825282261">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state x="551" y="246" key="new project wizard/0.23.1920.994@0.23.1920.994" timestamp="1584825282261" />
   </component>
 </project>
