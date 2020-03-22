@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97337ca6-3e1b-47b0-a7a3-0832a03f243a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/TopCategories.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/input/youtubedata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output/._SUCCESS.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output/.part-r-00000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output/_SUCCESS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output/part-r-00000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output1/._SUCCESS.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output1/.part-r-00000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output1/_SUCCESS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/output1/part-r-00000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/src/main/java/com/lendap/hadoop/TopCategories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab1/youtubedata.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/WordCount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/WordCount.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab1/source/src/main/java/com/lendap/hadoop/TopRatedVideos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../M1ICP2/WordCount/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
