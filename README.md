@@ -20,3 +20,5 @@
 - M1ICP6: https://github.com/mohzary/Big-Data-Programming-SP2020/wiki/M1ICP6
 
 - M1ICP7: https://github.com/mohzary/Big-Data-Programming-SP2020/wiki/M1ICP7
+
+- Lab 1: https://github.com/scvnq/Bigdata/wiki/Lab1
