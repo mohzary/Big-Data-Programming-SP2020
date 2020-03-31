@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/m.mohzary/Documents/GitHub/Big-Data-Programming-SP2020/M2ICP2/source/Task1/MergeSort/"), "mergesort")...
+[debug] Done updating ProjectRef(uri("file:/Users/m.mohzary/Documents/GitHub/Big-Data-Programming-SP2020/M2ICP2/source/Task1/MergeSort/"), "mergesort")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
