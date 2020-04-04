@@ -1,1 +1,57 @@
-Apache Spark is open source, general-purpose distributed computing engine used for processing and analyzing a large amount of data. Just like Hadoop MapReduce, it also works with the system to distribute data across the cluster and process the data in parallel.
+Background
+There is much to learn about the novel coronavirus (SARS-CoV-2) that causes coronavirus disease 2019 (COVID-19). Based on what is currently known about COVID-19, spread from person-to-person of this virus happens most frequently among close contacts (within about 6 feet). This type of transmission occurs via respiratory droplets. On the other hand, transmission of novel coronavirus to persons from surfaces contaminated with the virus has not been documented. Recent studies indicate that people who are infected but do not have symptoms likely also play a role in the spread of COVID-19. Transmission of coronavirus occurs much more commonly through respiratory droplets than through fomites. Current evidence suggests that SARS-CoV-2 may remain viable for hours to days on surfaces made from a variety of materials. Cleaning of visibly dirty surfaces followed by disinfection is a best practice measure for prevention of COVID-19 and other viral respiratory illnesses in households and community settings. It is unknown how long the air inside a room occupied by someone with confirmed COVID-19 remains potentially infectious. Facilities will need to consider factors such as the size of the room and the ventilation system design (including flowrate [air changes per hour] and location of supply and exhaust vents) when deciding how long to close off rooms or areas used by ill persons before beginning disinfection.  Taking measures to improve ventilation in an area or room where someone was ill or suspected to be ill with COVID-19 will help shorten the time it takes respiratory droplets to be removed from the air.
+How to Protect Yourself & Others
+Know How it Spreads
+There is currently no vaccine to prevent coronavirus disease 2019 (COVID-19).
+The best way to prevent illness is to avoid being exposed to this virus.
+The virus is thought to spread mainly from person-to-person.
+Between people who are in close contact with one another (within about 6 feet).
+Through respiratory droplets produced when an infected person coughs, sneezes or talks.
+These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs.
+Some recent studies have suggested that COVID-19 may be spread by people who are not showing symptoms.
+Everyone Should
+Illustration: washing hands with soap and water
+Clean your hands often
+Wash your hands often with soap and water for at least 20 seconds especially after you have been in a public place, or after blowing your nose, coughing, or sneezing.
+If soap and water are not readily available, use a hand sanitizer that contains at least 60% alcohol. Cover all surfaces of your hands and rub them together until they feel dry.
+Avoid touching your eyes, nose, and mouth with unwashed hands.
+Illustration: Woman quarantined to her home
+Avoid close contact
+Avoid close contact with people who are sick
+Stay home as much as possible.pdf iconexternal icon
+Put distance between yourself and other people.
+Remember that some people without symptoms may be able to spread virus.
+Keeping distance from others is especially important for people who are at higher risk of getting very sick.
+Person with cloth face covering
+Cover your mouth and nose with a cloth face cover when around others
+You could spread COVID-19 to others even if you do not feel sick.
+Everyone should wear a cloth face cover when they have to go out in public, for example to the grocery store or to pick up other necessities.
+Cloth face coverings should not be placed on young children under age 2, anyone who has trouble breathing, or is unconscious, incapacitated or otherwise unable to remove the mask without assistance.
+The cloth face cover is meant to protect other people in case you are infected.
+Do NOT use a facemask meant for a healthcare worker.
+Continue to keep about 6 feet between yourself and others. The cloth face cover is not a substitute for social distancing.
+woman covering their mouth when coughing
+Cover coughs and sneezes
+If you are in a private setting and do not have on your cloth face covering, remember to always cover your mouth and nose with a tissue when you cough or sneeze or use the inside of your elbow.
+Throw used tissues in the trash.
+Immediately wash your hands with soap and water for at least 20 seconds. If soap and water are not readily available, clean your hands with a hand sanitizer that contains at least 60% alcohol.
+cleaning a counter
+Clean and disinfect
+Clean AND disinfect frequently touched surfaces daily. This includes tables, doorknobs, light switches, countertops, handles, desks, phones, keyboards, toilets, faucets, and sinks.
+If surfaces are dirty, clean them: Use detergent or soap and water prior to disinfection.
+To disinfect:
+Most common EPA-registered household disinfectants will work. Use disinfectants appropriate for the surface.
+
+Options include:
+
+Diluting your household bleach.
+To make a bleach solution, mix:
+5 tablespoons (1/3rd cup) bleach per gallon of water
+OR
+4 teaspoons bleach per quart of water
+Follow manufacturer’s instructions for application and proper ventilation. Check to ensure the product is not past its expiration date. Never mix household bleach with ammonia or any other cleanser. Unexpired household bleach will be effective against coronaviruses when properly diluted.
+
+Alcohol solutions.
+Ensure solution has at least 70% alcohol.
+Other common EPA-registered household disinfectants.
+Products with EPA-approved emerging viral pathogens pdf icon[7 pages]external icon claims are expected to be effective against COVID-19 based on data for harder to kill viruses. Follow the manufacturer’s instructions for all cleaning and disinfection products (e.g., concentration, application method and contact time, etc.).
