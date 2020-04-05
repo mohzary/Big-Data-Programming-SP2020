@@ -1,4 +1,4 @@
 [debug] "not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/home/mahzari/Desktop/BigDataProgramming/code/Big-Data-Programming-SP2020/M2ICP1/source/task2/SecondarySorting/"), "secondarysorting")...
-[debug] Done updating ProjectRef(uri("file:/home/mahzari/Desktop/BigDataProgramming/code/Big-Data-Programming-SP2020/M2ICP1/source/task2/SecondarySorting/"), "secondarysorting")
+[debug] Updating ProjectRef(uri("file:/Users/m.mohzary/Documents/GitHub/Big-Data-Programming-SP2020/M2ICP1/source/task2/SecondarySorting/"), "secondarysorting")...
+[debug] Done updating ProjectRef(uri("file:/Users/m.mohzary/Documents/GitHub/Big-Data-Programming-SP2020/M2ICP1/source/task2/SecondarySorting/"), "secondarysorting")
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
