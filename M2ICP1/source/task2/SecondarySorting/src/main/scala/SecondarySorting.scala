@@ -1,4 +1,4 @@
-import org.apache.spark.{SparkConf, SparkContext}
+import org.apache.spark._
 
 object SecondarySorting {
   def main(args: Array[String]): Unit = {
@@ -14,22 +14,15 @@ object SecondarySorting {
     //To create RDD from input dataset file using textfile method
     val RDD = sc.textFile("input/dataset.txt")
 
-    // Split the records in the RDD using map transformation operation and split function
-    val splitRDD = RDD.map(data => data.split(","))
+    val pairRDD =RDD.map(_.split(",")).map{k => (k(0),k(1))}
+    val numReducers = 2;
+    val listRDD = pairRDD.groupByKey(numReducers).mapValues(iter => iter.toList.sortBy(r => r))
+    val resultRDD =listRDD.flatMap{
+      case (labe1,list) => {
 
-    //Create a tuple of the key value pairs using Map() transformation operation :
-    //val pairsRDD = RDD.map(_.split(",")).map { k => (k(0), k(1)) }
-
-    //val numReducers = 2;
-
-    //val listRDD = pairsRDD.groupByKey(numReducers).mapValues(iter => iter.toList.sortBy(r => r))
-
-    //val resultRDD = listRDD.flatMap {
-     // case (label, list) => {
-      //  list.map((label, _))
-     // }
-
-
-
+        list.map((labe1, _))
+      }
+    }
+    resultRDD.saveAsTextFile("output/")
   }
 }
