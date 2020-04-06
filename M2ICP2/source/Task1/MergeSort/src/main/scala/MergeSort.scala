@@ -4,6 +4,8 @@ object MergeSort {
 
   def main(args: Array[String]): Unit = {
 
+
+    //To define new spark configuration
     val conf = new SparkConf().
       setMaster("local").
       setAppName("MergeSort")
