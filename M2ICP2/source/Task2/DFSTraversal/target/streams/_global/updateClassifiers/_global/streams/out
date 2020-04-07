@@ -1,4 +1,5 @@
-[debug] "not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/Users/m.mohzary/Documents/GitHub/Big-Data-Programming-SP2020/M2ICP2/source/Task2/DFSTraversal/"), "dfstraversal")...
-[debug] Done updating ProjectRef(uri("file:/Users/m.mohzary/Documents/GitHub/Big-Data-Programming-SP2020/M2ICP2/source/Task2/DFSTraversal/"), "dfstraversal")
+[warn] scala-library-2.11.12-sources.jar no longer exists at /Users/m.mohzary/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar
+[debug] "not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/home/mahzari/Desktop/BigDataProgramming/code/Big-Data-Programming-SP2020/M2ICP2/source/Task2/DFSTraversal/"), "dfstraversal")...
+[debug] Done updating ProjectRef(uri("file:/home/mahzari/Desktop/BigDataProgramming/code/Big-Data-Programming-SP2020/M2ICP2/source/Task2/DFSTraversal/"), "dfstraversal")
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
