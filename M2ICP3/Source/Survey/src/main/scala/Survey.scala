@@ -76,15 +76,29 @@ object Survey {
 
     //====================================Part(2)(1)==========================================================
     //Apply the basic queries related to Joins and aggregate functions(at least 2)
+    val query2_DF = spark.sql("SELECT Country, MAX(Age) AS maxAge FROM survey GROUP BY Country ORDER BY maxAge DESC")
+    println("Maximum age of participants per country")
+    query2_DF.show()
+    //I save output into new file
+    query2_DF.write.format("com.databricks.spark.csv").save("output/queries/query2.csv")
+
+    val query3_DF = spark.sql("SELECT state, Age, COUNT(Age) as numberOfCasesPerAge FROM survey WHERE " +
+      "(Gender=='Female' OR Gender=='F' OR Gender=='female' OR Gender=='f') AND (seek_help=='Yes') " +
+      "GROUP BY state, Age ORDER BY numberOfCasesPerAge DESC")
+
+    println("Number of cases seeking for help per Age and State")
+    query3_DF.show()
+    //I save output into new file
+    query3_DF.write.format("com.databricks.spark.csv").save("output/queries/query3.csv")
 
 
     //====================================Part(2)(2)==========================================================
     //Write a query to fetch 13th Row in the dataset. 
-
-
-
-
-
+    val query4_DF = spark.sql("SELECT * FROM survey LIMIT 13")
+    println("To return 13th Rows from the dataset")
+    query4_DF.show()
+    //I save output into new file
+    query4_DF.write.format("com.databricks.spark.csv").save("output/queries/query4.csv")
 
   }
 }
