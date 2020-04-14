@@ -1,5 +1,7 @@
 
-
+                                          //1
+                                          // \
+                                          //  2
 object DFSTraversal{
   def main(args: Array[String]): Unit = {
     type V = Int
