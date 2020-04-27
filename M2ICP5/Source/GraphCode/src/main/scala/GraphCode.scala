@@ -1,9 +1,7 @@
-import org.apache.spark.sql.{DataFrame, SparkSession}
+import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions.array
-import org.apache.spark.{SparkConf, SparkContext, graphx}
-import org.apache.spark.graphx._
+import org.apache.spark.{SparkConf, SparkContext}
 
-import org.graphframes.GraphFrame
 
 object GraphCode{
   def main(args: Array[String]): Unit = {
@@ -88,7 +86,7 @@ object GraphCode{
     println("Trips data frame with new columns names:")
     trip_data.show(5)
 
-    //====================================Part(1)(6)========================================================
+    //====================================Part(1)(6)(7)(8)========================================================
     //Create vertices
 
     //First, we create two temporary views of data frames to use with spark sql
@@ -96,21 +94,31 @@ object GraphCode{
     trip_data.createOrReplaceTempView("trips")
 
     //to create vertices data frame
-    val v = spark.sql("SELECT id FROM stations")
-
+    val v = spark.sql("SELECT id, name FROM stations")
+    val vs = v.rdd
+    vs.saveAsTextFile("output/vertices.txt")
     //to create edges data frame
-    val e = spark.sql("SELECT src, dst FROM trips")
+    val e = spark.sql("SELECT src, dst, trip FROM trips")
+    val es = e.rdd
+    es.saveAsTextFile("output2/edges.txt")
 
-    val stations_trips_graph = {
-      Graph(v.count(),e.count())
-    }
 
-    //====================================Part(1)(7)========================================================
-    //Show some edges
-    println("An example of graph vertices: " + stations_trips_graph.vertices)
-    //====================================Part(1)(8)========================================================
-    //Show some edges
-    println("An example of graph edges: " + stations_trips_graph.edges)
+    val stations_trips_graph = GraphFrame(es, vs)
+
+
+    //====================================Part(1)(9)========================================================
+    //Vertex in-Degree
+    val in_Degree = stations_trips_graph.inDegrees
+    in_Degree.show(5)
+    //====================================Part(1)(10)========================================================
+    //Vertex out-Degree
+    val out_Degree = stations_trips_graph.outDegrees
+    out_Degree.show()
+    //====================================Part(1)(11)========================================================
+
+    //Apply the motif findings
+    val motifs: DataFrame = stations_trips_graph.find("(a)-[e]->(b); (b)-[e2]->(a)")
+    motifs.show()
   }
 }
 
