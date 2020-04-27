@@ -103,7 +103,7 @@ object GraphCode{
     es.saveAsTextFile("output2/edges.txt")
 
 
-    val stations_trips_graph = GraphFrame(es, vs)
+    val stations_trips_graph = GraphFrame(v , e)
 
 
     //====================================Part(1)(9)========================================================
