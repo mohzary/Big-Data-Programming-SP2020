@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52dcc426-d096-4ef4-9135-ee6ad68be426" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Source-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/graphx-checkpoint.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b5rnYp4SaSQOnqFfhhtjNwrVf9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ProcessGraphs" type="Application" factoryName="Application">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ProcessGraphs" />
+      <module name="Source" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52dcc426-d096-4ef4-9135-ee6ad68be426" name="Default Changelist" comment="" />
+      <created>1587932962165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587932962165</updated>
+      <workItem from="1587932968427" duration="1432000" />
+      <workItem from="1587934439239" duration="944000" />
+      <workItem from="1587935419550" duration="110000" />
+      <workItem from="1587936546023" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="359" y="116" width="1024" height="852" key="#Project_Structure" timestamp="1587933254798">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="359" y="116" width="1024" height="852" key="#Project_Structure/72.27.1608.1023@72.27.1608.1023" timestamp="1587933254798" />
+    <state x="334" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587933895088">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="334" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1608.1023@72.27.1608.1023" timestamp="1587933895088" />
+    <state x="608" y="330" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587933872088">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="608" y="330" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/72.27.1608.1023@72.27.1608.1023" timestamp="1587933872088" />
+    <state x="654" y="285" width="424" height="520" key="FileChooserDialogImpl" timestamp="1587935456818">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="654" y="285" width="424" height="520" key="FileChooserDialogImpl/72.27.1608.1023@72.27.1608.1023" timestamp="1587935456818" />
+    <state x="185" y="265" width="1372" height="554" key="new project wizard" timestamp="1587935531407">
+      <screen x="72" y="27" width="1608" height="1023" />
+    </state>
+    <state x="185" y="265" width="1372" height="554" key="new project wizard/72.27.1608.1023@72.27.1608.1023" timestamp="1587935531407" />
+  </component>
+</project>
