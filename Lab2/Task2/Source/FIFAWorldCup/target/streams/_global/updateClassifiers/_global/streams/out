@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/mahzari/Desktop/BigDataProgramming/code/Big-Data-Programming-SP2020/Lab2/Task2/Source/FIFAWorldCup/"), "fifaworldcup")...
+[debug] Done updating ProjectRef(uri("file:/home/mahzari/Desktop/BigDataProgramming/code/Big-Data-Programming-SP2020/Lab2/Task2/Source/FIFAWorldCup/"), "fifaworldcup")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
