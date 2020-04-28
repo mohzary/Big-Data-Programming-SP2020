@@ -56,8 +56,18 @@ object FIFAWorldCup {
     println("The first 5 rows in the World Cups dataFrame:")
     world_Cups_DF.show(5)
 
+    ///=====================================Part(2): To Perform 10 queries=========================================
+    //First we create temporary views of data frames
+    world_Cup_Matches_DF.createOrReplaceTempView("matches")
+    world_Cup_Players_DF.createOrReplaceTempView("players")
+    world_Cups_DF.createOrReplaceTempView("cups")
 
+    //Query(1): To find how many matches USA team wins when it plays as Home team and group number of wins by Away team
+    //val query1 = spark.sql("SELECT 'Home Team Name', 'Away Team Name', COUNT('Home Team Name') as numberOFMatches FROM matches WHERE ((('Home Team Name') == 'USA') AND ('Home Team Goals' > 'Away Team Goals')) GROUP BY 'Away Team Name' ORDER BY numberOFMatches DESC")
+    val query1 = spark.sql("SELECT 'Home Team Name' AS HomeTeam, 'Away Team Name' FROM matches WHERE ((HomeTeam) == 'USA') ")
 
+    println("Number of matches USA team wins when it plays as home team:")
+    query1.show()
 
 
 
