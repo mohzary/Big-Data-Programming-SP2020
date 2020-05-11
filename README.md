@@ -34,3 +34,5 @@
 - M2ICP5: https://github.com/mohzary/Big-Data-Programming-SP2020/wiki/M2ICP5
 
 - M2ICP6: https://github.com/mohzary/Big-Data-Programming-SP2020/wiki/M2ICP6
+
+- M2ICP7: https://github.com/mohzary/Big-Data-Programming-SP2020/wiki/M2ICP7
